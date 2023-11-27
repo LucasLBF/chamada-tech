@@ -6,7 +6,7 @@ Para rodar o projeto localmente, siga as instruções abaixo.
 ## Clonar o projeto
 
 ```bash
-$ git clone https://github.com/LucasLBF/trabalho-grafos.git folder
+$ git clone https://github.com/LucasLBF/chamada-tech.git folder
 $ cd folder
 ```
 
