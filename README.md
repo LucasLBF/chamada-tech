@@ -26,7 +26,7 @@ $ source venv/bin/activate
 
 #### **Windows**
 
-> Como ativar o virtual environment no Linux 
+> Como ativar o virtual environment no Windows 
 ```bash
 $ .\venv\Scripts\activate
 ```
